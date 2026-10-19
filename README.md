@@ -1,4 +1,4 @@
-# Yi Ma — Energy Systems Research Portfolio
+# Yi Ma — My Research Portfolio
 
 A static English portfolio prepared for GitHub Pages. It includes:
 
