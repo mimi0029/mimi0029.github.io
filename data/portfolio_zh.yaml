@@ -1,0 +1,320 @@
+meta:
+  status: "中文本地版"
+  based_on: "2026-10-31 英文定稿"
+
+locale: "zh"
+
+ui:
+  research_areas_label: "研究方向"
+  explore_research: "了解我的研究"
+  start_conversation: "与我交流"
+  profile_index: "01 / 个人简介"
+  signal:
+    - "建筑"
+    - "能源系统"
+    - "决策"
+  education_trajectory_label: "教育经历"
+  technical_identity_label: "技术定位"
+  technical_identity_title: "面向系统层级问题的研究定位"
+  research_framework_title: "研究框架"
+  research_framework_text: "从科学问题与机理分析，走向生成式设计和实证验证。"
+  projects_label: "应用研发"
+  projects_title: "模型之外的工程证据"
+  projects_intro: "三个代表性案例展示了我如何开展调研、量化分析、协同组织并交付成果。"
+  engineering_context: "工程背景"
+  my_contribution: "我的贡献"
+  view_project: "查看项目详情"
+  complete_record: "完整记录"
+  all_projects_title: "全部科研项目"
+  all_projects_intro: "八项经历覆盖应用能源系统、战略咨询、环境工程与科研项目负责工作。"
+  studies_label: "代表性研究"
+  studies_title: "让研究方法清晰可见"
+  studies_intro: "每项研究均从一个决策问题出发，构建可检验的工作流程，并形成工程证据。"
+  open_study: "查看研究详情"
+  capabilities_label: "技术能力"
+  capabilities_title: "完整的研发工作流程"
+  experience_label: "国际经历"
+  experience_title: "在不同场景中交流研究成果"
+  awards_title: "获奖与荣誉"
+  awards_intro: "博士、硕士和本科阶段在学术研究、专业交流与综合实践方面获得的代表性认可。"
+  publications_label: "代表性论文"
+  publications_title: "研究成果"
+  publications_link: "查看全部论文"
+  patents_label: "已授权发明专利"
+  patents_title: "知识产权"
+  patents_link: "查看专利详情"
+  contact_label: "从研究走向应用"
+  email_label: "邮箱"
+  document_label: "文档"
+
+hero:
+  eyebrow: "应用能源系统研究"
+  name: "马弋"
+  alternate_name: "Yi Ma"
+  role: "天津大学博士研究生"
+  statement: >-
+    我围绕既有建筑改造决策、光伏—储能一体化系统、能源管理与不确定性优化开展研究，
+    致力于将模型转化为工程师和决策者可以直接使用的证据。
+  portrait: "/media/portfolio/yi-ma-portrait-landscape.webp"
+  portrait_alt: "马弋在公共交通工具上的照片"
+  tags:
+    - "光储一体化"
+    - "能源管理"
+    - "低碳改造"
+    - "数据驱动优化"
+
+profile:
+  label: "研究概况"
+  title: "从环境工程走向可落地的能源智能"
+  paragraphs:
+    - >-
+      我的学术经历横跨环境工程、建筑学与可持续能源。这种交叉背景使我能够从系统物理边界和数据质量出发，
+      进一步分析其运行、经济与全生命周期影响。
+    - >-
+      我目前重点研究光储一体化系统、源—储—荷协同、需求响应及电网友好型低碳应用中的透明且可迁移的方法。
+      我尤其关注将建模与实测数据、示范平台和实际部署约束结合起来的研究工作。
+  trajectory:
+    - period: "2016—2020"
+      degree: "环境工程工学学士"
+      institution: "南京农业大学"
+    - period: "2020—2023"
+      degree: "环境工程工学硕士"
+      institution: "南开大学"
+    - period: "2023—至今"
+      degree: "建筑学博士研究生"
+      institution: "天津大学 · APEC可持续能源中心"
+
+positioning:
+  - number: "01"
+    title: "核心领域"
+    text: "面向低碳建筑、校园和社区的光储一体化及源—储—荷协同运行。"
+  - number: "02"
+    title: "研究方法"
+    text: "能源系统模拟、实测数据分析、多目标优化、代理模型与不确定性分析。"
+  - number: "03"
+    title: "验证方式"
+    text: "运行数据与实体示范平台，并结合全生命周期和技术经济评估。"
+  - number: "04"
+    title: "应用方向"
+    text: "储能型EMS、需求响应、分布式能源集成和电网友好型低碳系统。"
+
+doctoral_research:
+  label: "博士研究课题"
+  title: "既有居住社区低碳改造策略与光储直柔系统应用研究"
+  summary: >-
+    本研究构建一个系统层级框架，贯通社区特征刻画、改造性能建模、光储直柔潜力评估、
+    考虑不确定性的优化、生成式设计与实证验证。其目标是以透明、情境自适应的路径，
+    取代面向异质社区的“一刀切”改造决策。
+  image: "/media/portfolio/doctoral-research-framework.webp"
+  image_alt: "马弋关于低碳改造与光储直柔系统的博士研究框架"
+  stages:
+    - number: "01"
+      title: "社区原型"
+      text: "通过参数化社区模型表征热工、几何、空间及清洁能源特征。"
+    - number: "02"
+      title: "机理分析"
+      text: "量化被动、主动和可再生能源措施的单项贡献及耦合效应。"
+    - number: "03"
+      title: "光储直柔潜力"
+      text: "评估光伏资源、储能需求、直流配电适用性、柔性负荷与空间约束。"
+    - number: "04"
+      title: "多目标优化"
+      text: "在不确定条件下平衡能源、碳排放、可再生能源利用、舒适度与全生命周期成本。"
+    - number: "05"
+      title: "生成式设计"
+      text: "将帕累托解转化为可解释、情境特定的改造方案与决策支持。"
+    - number: "06"
+      title: "实证验证"
+      text: "利用真实案例校准模型、检验稳健性，并提炼可迁移的工程建议。"
+  methods:
+    - "EnergyPlus · TRNSYS · MATLAB/Simulink"
+    - "Rhino · Grasshopper · Ladybug Tools"
+    - "Python · 代理模型 · SHAP"
+    - "NSGA-III · 敏感性与不确定性分析"
+
+projects:
+  - number: "01"
+    slug: "integrated-pv-storage-pathways"
+    title: "天津市光储直柔建筑发展战略评估"
+    period: "2023年4月—2024年9月"
+    organisation: "中国工程院战略研究与咨询项目"
+    type: "工程战略 · 利益相关者调研"
+    problem: >-
+      区域规模化应用并不只取决于单项技术。本项目将供应链、建筑条件、电网友好性、
+      标准体系、市场成熟度与政策环境等分散证据整合为系统判断。
+    contribution: >-
+      构建利益相关者调研框架，综合政策与工程资料，并作为主要撰稿人完成天津市发展基础与战略机遇相关章节。
+    image: "/media/portfolio/pedf-stakeholder-research.webp"
+    image_alt: "光储直柔战略项目的利益相关者调研会议"
+    image_class: "pf-project-image-bottom-row"
+  - number: "02"
+    slug: "tianjin-university-energy-audit"
+    title: "天津大学校园能源审计与改造评估"
+    period: "2023年12月—2024年7月"
+    organisation: "天津大学 · 天津市发展和改革委员会"
+    type: "监管型审计 · 改造可行性评估"
+    problem: >-
+      本次审计将账单、计量记录、建筑清单、设备参数与管理文件转化为两个校区可追溯的能源基线，
+      并形成可实施的节能改造情景。
+    contribution: >-
+      负责五人团队管理，建立校级能源核算框架，并评估拟议措施的节能量、减碳量、投资、
+      年度收益、回收期、净现值和内部收益率。
+    image: "/media/portfolio/energy-audit-uav.webp"
+    image_alt: "天津大学能源审计中的无人机现场调研"
+  - number: "03"
+    slug: "zero-carbon-campus-retrofit"
+    title: "既有校园零碳化改造"
+    period: "2023年6月—2025年4月"
+    organisation: "天津大学 · 中国长江电力 · 三峡电能"
+    type: "产学研研发 · 示范方案"
+    problem: >-
+      本项目将需求侧节能、光伏、建筑光伏一体化、光伏光热、热泵、储能、直流配电、
+      柔性用能及环境管理整合为可迁移的校园改造路径。
+    contribution: >-
+      撰写并统筹技术报告，形成水资源与固体废弃物管理的实施内容，
+      并围绕光储协同和碳能优化概念开展专利检索与布局分析。
+
+project_record:
+  - period: "2024年11月"
+    title: "第十届亚太能源可持续发展高端论坛的组织与实施"
+    type: "国际能源论坛"
+    role: "项目组成员 · 项目负责人：朱丽教授（本人博士生导师）"
+  - period: "2023年11月—2024年9月"
+    title: "天津市2023年度重点用能单位节能目标责任评价：天津大学能源审计"
+    type: "监管型能源审计与绩效评价"
+    role: "项目负责人：马弋"
+  - period: "2023年12月—2025年2月"
+    title: "既有校园零碳化改造新型能源系统关键技术研究及应用示范（第二包）"
+    type: "应用研发与示范项目"
+    role: "项目参与人 · 项目负责人：朱丽教授（本人博士生导师）"
+  - period: "2023年12月—2024年9月"
+    title: "光电储一体化技术路径和产学研合作策略研究"
+    type: "中国工程院战略研究与咨询项目"
+    role: "项目参与人 · 总项目负责人：王成山院士 · 子课题负责人：朱丽教授"
+  - period: "2023年4月—2025年1月"
+    title: "既有校园零碳化改造新型能源系统关键技术研究及应用示范"
+    type: "产学研合作项目"
+    role: "项目参与人 · 项目负责人：朱丽教授（本人博士生导师）"
+  - period: "2021年4月—2023年4月"
+    title: "石化污染场地强化多相抽提与高效净化耦合技术"
+    type: "国家重点研发计划项目"
+    role: "项目参与人 · 项目负责人：张寅清教授（本人硕士生导师）"
+  - period: "2021年4月—2022年8月"
+    title: "场地未定标特征污染物的多介质分配迁移规律研究"
+    type: "国家重点研发计划项目"
+    role: "项目参与人 · 项目负责人：祝凌燕教授"
+  - period: "2018年6月—2019年6月"
+    title: "硫酸根自由基降解水中抗生素的机理"
+    type: "校级科研创新项目"
+    role: "项目负责人：马弋"
+
+studies:
+  - number: "论文 01"
+    title: "面向低碳改造策略优选的情境自适应全生命周期可行性框架"
+    question: "如何使改造策略在异质化老旧居住社区中仍然具备可解释性与适应性？"
+    image: "/media/portfolio/paper-retrofit-viability.webp"
+    image_alt: "改造可行性框架的图文摘要"
+    highlights:
+      - "针对216类社区原型评估690,795种改造组合"
+      - "利用SHAP识别不同建成年代下关键改造驱动因素的变化"
+      - "通过情境自适应权重综合能源、碳排放、光伏与全生命周期成本"
+      - "改造后能耗更低并不必然意味着全生命周期可行性更高"
+    url: "/publications/aged-residential-retrofit/"
+  - number: "论文 02"
+    title: "可靠改造决策究竟需要多少信息？"
+    question: "应当优先采集哪些建筑信息，以及多少信息足以支撑稳定决策？"
+    image: "/media/portfolio/paper-information-uncertainty.webp"
+    image_alt: "考虑不确定性的改造决策框架图文摘要"
+    highlights:
+      - "建筑信息不确定性会传播至能源、舒适度、碳排放与成本结果"
+      - "利用深度学习提取立面特征并量化窗墙比估算误差"
+      - "在八栋差异显著的居住建筑中检验统一工作流程"
+      - "通过全信息遗憾值识别信息优先级与最低信息要求"
+    url: "/publications/information-uncertainty-retrofit/"
+
+skills:
+  - title: "建模"
+    text: "EnergyPlus、TRNSYS、MATLAB/Simulink、Rhino/Grasshopper及系统边界界定。"
+  - title: "分析"
+    text: "Python、实测数据处理、可视化、代理模型与可解释机器学习。"
+  - title: "优化"
+    text: "多目标问题构建、NSGA-III、敏感性分析与考虑不确定性的决策支持。"
+  - title: "验证"
+    text: "能源审计、LCA/LCSA、技术经济评估、基准比较与示范项目证据。"
+  - title: "交付"
+    text: "项目策划、利益相关者协调、技术报告撰写与统筹、知识产权调研。"
+
+experience:
+  - date: "2025年9—10月"
+    role: "访问学者"
+    organisation: "斯洛伐克布拉迪斯拉发理工大学"
+    description: "获欧盟Erasmus+项目资助，开展学术交流与跨文化科研沟通。"
+    image: "/media/portfolio/erasmus-research-exchange.webp"
+  - date: "2025年7月"
+    role: "会议报告人"
+    organisation: "CUE2025 · 日本北九州"
+    description: "报告建筑一体化光储直柔系统的全生命周期可持续性评价框架。"
+    image: "/media/portfolio/cue2025-presentation.webp"
+  - date: "2025年"
+    role: "会议报告人"
+    organisation: "ICoGB 2025 · 国际绿色建筑大会"
+    description: "从建筑全生命周期视角报告光储直柔技术与可持续性评价研究。"
+    image: "/media/portfolio/icogb-2025-presentation.png"
+
+recognition_groups:
+  - stage: "博士阶段"
+    period: "2023—至今"
+    items:
+      - "第三届ISETS-ESCAP暨第四届ISETS全球青年能源转型之声竞赛东亚赛区三等奖 · 2026"
+      - "天津大学二等学业奖学金 · 2025—2026"
+      - "天津大学二等学业奖学金 · 2024—2025"
+      - "天津大学文体类专项奖学金"
+  - stage: "硕士阶段"
+    period: "2020—2023"
+    items:
+      - "第二届全国低碳循环科技竞赛研究生组一等奖"
+      - "南开大学新生奖学金二等奖"
+      - "南开大学单项奖学金"
+      - "五月的鲜花合唱比赛团体二等奖两次"
+      - "南开大学广播台优秀成员"
+  - stage: "本科阶段"
+    period: "2016—2020"
+    items:
+      - "南京农业大学优秀本科毕业生"
+      - "江苏省数学竞赛二等奖"
+      - "三好学生一等奖学金"
+      - "德厚一等奖学金"
+      - "“思政杯”演讲比赛一等奖"
+      - "生态屋设计大赛优秀奖"
+      - "外研社杯大学生英语竞赛三等奖"
+      - "中科院南京土壤研究所“资源环境科学菁英班”奖学金"
+
+publications:
+  - title: "建筑一体化光储直柔系统全生命周期可持续性评价综合框架"
+    venue: "CUE2025 · EI检索范围"
+  - title: "基于建筑全生命周期评价的光储直柔技术研究进展"
+    venue: "国际绿色建筑大会 · 2025 · EI检索范围"
+  - title: "纤维素纳米晶稳定Pickering乳液强化去除污染土壤中的石油烃"
+    venue: "Science of the Total Environment · 2024 · JCR Q1"
+  - title: "不同分子量PVP包覆银纳米颗粒在多孔介质中的迁移"
+    venue: "Journal of Hazardous Materials · 2022"
+
+patents:
+  - title: "一种纤维素纳米晶体的制备方法"
+    detail: "已授权发明专利 · 2023 · 学生第一发明人"
+  - title: "一种纤维素纳米晶体的应用途径"
+    detail: "已授权发明专利 · 2023 · 学生第一发明人"
+  - title: "一种清除抗生素的环保高效清洗剂制备方法和应用"
+    detail: "已授权发明专利 · 2019 · 唯一发明人"
+
+contact:
+  title: "继续开展技术交流"
+  text: >-
+    欢迎围绕储能、EMS、可再生能源集成、建模、优化、评估与验证等方向，
+    就国际企业研发、产学研联合博士后和技术合作进行交流。
+  emails:
+    - "mymy@tju.edu.cn"
+    - "maylis.ma.0029@gmail.com"
+  downloads:
+    - label: "下载完整作品集"
+      url: "/uploads/Yi_Ma_Portfolio.docx"

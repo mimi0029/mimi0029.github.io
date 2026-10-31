@@ -1,14 +1,14 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Research Projects'
+summary: 'Selected applied R&D projects in integrated energy systems and earlier environmental engineering.'
+date: 2026-10-19
 type: landing
 
-# Page sections
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Selected Applied R&D
+      text: Technology strategy, engineering demonstration, and evidence-based delivery.
       filters:
         folders:
           - projects
@@ -18,5 +18,5 @@ sections:
       columns: 3
       show_date: false
       show_read_time: false
-      show_read_more: false
+      show_read_more: true
 ---

@@ -1,0 +1,336 @@
+meta:
+  status: "Finalized English draft"
+  finalized_on: "2026-10-31"
+
+locale: "en"
+
+ui:
+  research_areas_label: "Research areas"
+  explore_research: "Explore the research"
+  start_conversation: "Start a conversation"
+  profile_index: "01 / PROFILE"
+  signal:
+    - "BUILDING"
+    - "ENERGY SYSTEM"
+    - "DECISION"
+  education_trajectory_label: "Education trajectory"
+  technical_identity_label: "Technical identity"
+  technical_identity_title: "A system-level research position"
+  research_framework_title: "Research framework"
+  research_framework_text: "From scientific questions and mechanism analysis to generative design and empirical validation."
+  projects_label: "Applied R&D"
+  projects_title: "Evidence beyond the model"
+  projects_intro: "Three selected case studies show how I investigate, quantify, coordinate, and deliver."
+  engineering_context: "Engineering context"
+  my_contribution: "My contribution"
+  view_project: "View project detail"
+  complete_record: "Complete record"
+  all_projects_title: "All research projects"
+  all_projects_intro: "Eight projects spanning applied energy systems, strategic consulting, environmental engineering, and research leadership."
+  studies_label: "Selected studies"
+  studies_title: "Methods made visible"
+  studies_intro: "Each study isolates a decision problem, constructs a testable workflow, and returns engineering evidence."
+  open_study: "Open study detail"
+  capabilities_label: "Technical capabilities"
+  capabilities_title: "A complete R&D workflow"
+  experience_label: "International experience"
+  experience_title: "Research communicated across contexts"
+  awards_title: "Awards & Recognition"
+  awards_intro: "Academic, research, communication, and extracurricular recognition across doctoral, master's, and undergraduate study."
+  publications_label: "Selected publications"
+  publications_title: "Research outputs"
+  publications_link: "View all publications"
+  patents_label: "Granted invention patents"
+  patents_title: "Intellectual property"
+  patents_link: "View patent details"
+  contact_label: "From research to application"
+  email_label: "Email"
+  document_label: "Document"
+
+hero:
+  eyebrow: "Applied energy systems research"
+  name: "Yi Ma"
+  alternate_name: "马弋"
+  role: "Ph.D. Candidate at Tianjin University"
+  statement: >-
+    I connect building retrofit decisions with integrated PV-storage systems,
+    energy management, and uncertainty-aware optimisation - translating models
+    into evidence that engineers and decision makers can use.
+  portrait: "/media/portfolio/yi-ma-portrait-landscape.webp"
+  portrait_alt: "Yi Ma travelling by bus"
+  tags:
+    - "Integrated PV-Storage"
+    - "Energy Management"
+    - "Low-Carbon Retrofit"
+    - "Data-Driven Optimisation"
+
+profile:
+  label: "Research profile"
+  title: "From environmental engineering to deployable energy intelligence"
+  paragraphs:
+    - >-
+      My academic route spans environmental engineering, architecture, and
+      sustainable energy. This interdisciplinary training lets me examine an
+      energy system from its physical boundary and data quality through to its
+      operational, economic, and life-cycle consequences.
+    - >-
+      My current work focuses on transparent and transferable methods for
+      integrated PV-storage systems, source-storage-load coordination, demand
+      response, and grid-interactive low-carbon applications. I am particularly
+      interested in work that combines modelling with measured data,
+      demonstration platforms, and practical deployment constraints.
+  trajectory:
+    - period: "2016-2020"
+      degree: "B.Eng. Environmental Engineering"
+      institution: "Nanjing Agricultural University"
+    - period: "2020-2023"
+      degree: "M.Eng. Environmental Engineering"
+      institution: "Nankai University"
+    - period: "2023-Present"
+      degree: "Ph.D. Candidate in Architecture"
+      institution: "Tianjin University · APEC Sustainable Energy Center"
+
+positioning:
+  - number: "01"
+    title: "Core domain"
+    text: "PV-storage integration and coordinated generation-storage-load operation for low-carbon buildings, campuses, and communities."
+  - number: "02"
+    title: "Methods"
+    text: "Energy-system simulation, measured-data analysis, multi-objective optimisation, surrogate modelling, and uncertainty analysis."
+  - number: "03"
+    title: "Validation"
+    text: "Operational data and physical demonstration platforms, supported by life-cycle and techno-economic assessment."
+  - number: "04"
+    title: "Application direction"
+    text: "Storage-enabled EMS, demand response, distributed energy integration, and grid-interactive low-carbon systems."
+
+doctoral_research:
+  label: "Doctoral research programme"
+  title: "Low-Carbon Retrofit Strategies and Integrated PV-Storage Applications for Aged Residential Communities"
+  summary: >-
+    The research develops a system-level framework that connects community
+    characterisation, retrofit-performance modelling, PEDF potential assessment,
+    uncertainty-aware optimisation, generative design, and empirical validation.
+    The objective is to replace one-size-fits-all retrofit decisions with
+    transparent, context-adaptive pathways for heterogeneous communities.
+  image: "/media/portfolio/doctoral-research-framework.webp"
+  image_alt: "Framework of Yi Ma's doctoral research on low-carbon retrofit and PEDF systems"
+  stages:
+    - number: "01"
+      title: "Community archetypes"
+      text: "Represent thermal, geometric, spatial, and clean-energy characteristics through parameterised community models."
+    - number: "02"
+      title: "Mechanism analysis"
+      text: "Quantify individual contributions and coupled effects of passive, active, and renewable-energy measures."
+    - number: "03"
+      title: "PEDF potential"
+      text: "Assess PV resources, storage needs, DC-distribution suitability, flexible loads, and spatial constraints."
+    - number: "04"
+      title: "Multi-objective optimisation"
+      text: "Balance energy, carbon, renewable utilisation, comfort, and whole-life cost under uncertainty."
+    - number: "05"
+      title: "Generative design"
+      text: "Translate Pareto solutions into explainable, context-specific retrofit schemes and decision support."
+    - number: "06"
+      title: "Empirical validation"
+      text: "Calibrate models with real cases, test robustness, and derive transferable engineering recommendations."
+  methods:
+    - "EnergyPlus · TRNSYS · MATLAB/Simulink"
+    - "Rhino · Grasshopper · Ladybug Tools"
+    - "Python · surrogate models · SHAP"
+    - "NSGA-III · sensitivity and uncertainty analysis"
+
+projects:
+  - number: "01"
+    slug: "integrated-pv-storage-pathways"
+    title: "Strategic Assessment of PEDF Building Development in Tianjin"
+    period: "Apr 2023 - Sep 2024"
+    organisation: "Strategic Research and Consulting Project of the Chinese Academy of Engineering"
+    type: "Engineering strategy · stakeholder research"
+    problem: >-
+      Regional deployment depends on more than individual technologies. The
+      project connected fragmented evidence on supply chains, building
+      conditions, grid interaction, standards, market readiness, and policy.
+    contribution: >-
+      Developed the stakeholder survey framework, synthesised evidence from
+      policy and engineering sources, and served as a principal drafter of the
+      chapter on Tianjin's foundations and strategic opportunities.
+    image: "/media/portfolio/pedf-stakeholder-research.webp"
+    image_alt: "Stakeholder research meeting for the PEDF strategy project"
+    image_class: "pf-project-image-bottom-row"
+  - number: "02"
+    slug: "tianjin-university-energy-audit"
+    title: "Campus-Scale Energy Audit and Retrofit Assessment"
+    period: "Dec 2023 - Jul 2024"
+    organisation: "Tianjin University · Tianjin Municipal Development and Reform Commission"
+    type: "Regulatory audit · retrofit feasibility"
+    problem: >-
+      The audit transformed bills, metering records, building inventories,
+      equipment parameters, and management documents into a traceable baseline
+      for two campuses and a set of implementable retrofit scenarios.
+    contribution: >-
+      Led a five-member team, built the campus energy-accounting framework, and
+      assessed energy savings, carbon reductions, investment, annual savings,
+      payback, NPV, and IRR for proposed measures.
+    image: "/media/portfolio/energy-audit-uav.webp"
+    image_alt: "UAV fieldwork during the Tianjin University energy audit"
+  - number: "03"
+    slug: "zero-carbon-campus-retrofit"
+    title: "Zero-Carbon Retrofit of Existing Campuses"
+    period: "Jun 2023 - Apr 2025"
+    organisation: "Tianjin University · China Yangtze Power · Three Gorges Electric Energy"
+    type: "Industry-linked R&D · demonstration planning"
+    problem: >-
+      The project organised demand reduction, photovoltaics, BIPV, PVT, heat
+      pumps, storage, DC distribution, flexible demand, and environmental
+      management into a transferable campus retrofit pathway.
+    contribution: >-
+      Drafted and integrated technical reports, developed implementation content
+      for water and solid-waste management, and conducted patent landscaping for
+      PV-storage coordination and carbon-energy optimisation concepts.
+
+project_record:
+  - period: "Nov 2024"
+    title: "Organisation and Delivery of the 10th Asia-Pacific Forum on Sustainable Development in Energy"
+    type: "International energy forum"
+    role: "Project team member · Project lead: Prof. Li Zhu (Ph.D. supervisor)"
+  - period: "Nov 2023 - Sep 2024"
+    title: "2023 Energy-Conservation Target Responsibility Evaluation for Key Energy-Using Units in Tianjin: Tianjin University Energy Audit"
+    type: "Regulatory energy audit and performance evaluation"
+    role: "Project leader: Yi Ma"
+  - period: "Dec 2023 - Feb 2025"
+    title: "Key Technologies and Application Demonstration of Novel Energy Systems for Zero-Carbon Retrofit of Existing Campuses (Package 2)"
+    type: "Applied R&D and demonstration project"
+    role: "Research participant · Project lead: Prof. Li Zhu (Ph.D. supervisor)"
+  - period: "Dec 2023 - Sep 2024"
+    title: "Technology Pathways and Industry-University-Research Collaboration Strategies for Integrated PV-Storage Systems"
+    type: "Strategic research and consulting project of the Chinese Academy of Engineering"
+    role: "Research participant · Programme lead: Prof. Chengshan Wang, CAE Academician · Subproject lead: Prof. Li Zhu"
+  - period: "Apr 2023 - Jan 2025"
+    title: "Key Technologies and Application Demonstration of Novel Energy Systems for Zero-Carbon Retrofit of Existing Campuses"
+    type: "Industry-university-research collaboration project"
+    role: "Research participant · Project lead: Prof. Li Zhu (Ph.D. supervisor)"
+  - period: "Apr 2021 - Apr 2023"
+    title: "Coupled Technologies for Enhanced Multiphase Extraction and Efficient Purification at Petrochemical-Contaminated Sites"
+    type: "National Key R&D Programme of China"
+    role: "Research participant · Project lead: Prof. Yinqing Zhang (M.Eng. supervisor)"
+  - period: "Apr 2021 - Aug 2022"
+    title: "Multimedia Partitioning and Transport of Unregulated Site-Specific Contaminants"
+    type: "National Key R&D Programme of China"
+    role: "Research participant · Project lead: Prof. Lingyan Zhu (M.Eng. supervisor)"
+  - period: "Jun 2018 - Jun 2019"
+    title: "Mechanisms of Sulfate-Radical Degradation of Antibiotics in Water"
+    type: "University-level research innovation project"
+    role: "Principal investigator: Yi Ma"
+
+studies:
+  - number: "Paper 01"
+    title: "A Context-Adaptive Whole-Life Viability Framework for Prioritising Low-Carbon Retrofit Strategies"
+    question: "How can retrofit strategies remain interpretable and adaptable across heterogeneous aged residential communities?"
+    image: "/media/portfolio/paper-retrofit-viability.webp"
+    image_alt: "Graphical abstract for the retrofit viability framework"
+    highlights:
+      - "690,795 retrofit combinations evaluated across 216 community archetypes"
+      - "SHAP identifies construction-period shifts in key retrofit drivers"
+      - "Context-adaptive weighting integrates energy, carbon, PV, and life-cycle cost"
+      - "Lower post-retrofit energy use does not necessarily mean higher whole-life viability"
+    url: "/publications/aged-residential-retrofit/"
+  - number: "Paper 02"
+    title: "How Much Information Is Enough for Reliable Retrofit Decisions"
+    question: "Which building information should be acquired first, and how much is sufficient for a stable decision?"
+    image: "/media/portfolio/paper-information-uncertainty.webp"
+    image_alt: "Graphical abstract for the uncertainty-aware retrofit decision framework"
+    highlights:
+      - "Building-information uncertainty propagates to energy, comfort, carbon, and cost"
+      - "Deep learning extracts facade features and quantifies WWR estimation error"
+      - "A common workflow is tested across eight contrasting residential buildings"
+      - "Full-information regret reveals information priorities and minimum requirements"
+    url: "/publications/information-uncertainty-retrofit/"
+
+skills:
+  - title: "Model"
+    text: "EnergyPlus, TRNSYS, MATLAB/Simulink, Rhino/Grasshopper, and system-boundary definition."
+  - title: "Analyse"
+    text: "Python, measured-data processing, visualisation, surrogate modelling, and explainable machine learning."
+  - title: "Optimise"
+    text: "Multi-objective formulation, NSGA-III, sensitivity analysis, and uncertainty-aware decision support."
+  - title: "Validate"
+    text: "Energy auditing, LCA/LCSA, techno-economic assessment, benchmarking, and demonstration evidence."
+  - title: "Deliver"
+    text: "Project planning, stakeholder coordination, technical reporting, report integration, and IP research."
+
+experience:
+  - date: "Sep-Oct 2025"
+    role: "Visiting Scholar"
+    organisation: "Slovak University of Technology in Bratislava"
+    description: "Erasmus+-funded academic exchange and cross-cultural research communication."
+    image: "/media/portfolio/erasmus-research-exchange.webp"
+  - date: "Jul 2025"
+    role: "Conference Presenter"
+    organisation: "CUE2025 · Kitakyushu, Japan"
+    description: "Presented a life-cycle sustainability assessment framework for building-integrated PEDF systems."
+    image: "/media/portfolio/cue2025-presentation.webp"
+  - date: "2025"
+    role: "Conference Presenter"
+    organisation: "ICoGB 2025 · International Conference on Green Building"
+    description: "Presented research on PEDF technology and sustainability assessment from a building life-cycle perspective."
+    image: "/media/portfolio/icogb-2025-presentation.png"
+
+recognition_groups:
+  - stage: "Doctoral Study"
+    period: "2023 - Present"
+    items:
+      - "Third Prize, East Asia Region · The 3rd ISETS-ESCAP & 4th ISETS Global Competition of Youth Voice on Energy Transition · 2026"
+      - "Second-Class Academic Scholarship · Tianjin University · 2025-2026"
+      - "Second-Class Academic Scholarship · Tianjin University · 2024-2025"
+      - "Special Scholarship for Arts and Sports Activities · Tianjin University"
+  - stage: "Master's Study"
+    period: "2020 - 2023"
+    items:
+      - "First Prize, Graduate Division · 2nd National Low-Carbon and Circular Technology Competition"
+      - "Second Prize · Nankai University Freshman Scholarship"
+      - "Individual Scholarship · Nankai University"
+      - "Second Prize, Group Category, awarded twice · May Flowers Chorus Competition"
+      - "Outstanding Member · Nankai University Broadcasting Station"
+  - stage: "Undergraduate Study"
+    period: "2016 - 2020"
+    items:
+      - "Outstanding Undergraduate Graduate · Nanjing Agricultural University"
+      - "Second Prize · Jiangsu Provincial Mathematics Competition"
+      - "First-Class Scholarship for Outstanding Students"
+      - "Dehou First-Class Scholarship"
+      - "First Prize · Ideological and Political Education Cup Speech Competition"
+      - "Excellence Award · Eco-House Design Competition"
+      - "Third Prize · FLTRP Cup English Competition for College Students"
+      - "Scholarship · Elite Class in Resources and Environmental Sciences, Institute of Soil Science, Chinese Academy of Sciences"
+
+publications:
+  - title: "A Comprehensive Framework for Life Cycle Sustainability Assessment of Building-Integrated PEDF Systems"
+    venue: "CUE2025 · EI scope"
+  - title: "Research Progress of PEDF Technology Based on Building Life-Cycle Assessment"
+    venue: "International Conference on Green Building · 2025 · EI scope"
+  - title: "Promoted Removal of Petroleum Hydrocarbons Using Cellulose-Nanocrystal-Stabilised Pickering Emulsions"
+    venue: "Science of the Total Environment · 2024 · JCR Q1"
+  - title: "Transport of PVP-Coated Silver Nanoparticles in Porous Media"
+    venue: "Journal of Hazardous Materials · 2022"
+
+patents:
+  - title: "Preparation Method of Cellulose Nanocrystals"
+    detail: "Granted invention patent · 2023 · First student inventor"
+  - title: "Application of Cellulose Nanocrystals"
+    detail: "Granted invention patent · 2023 · First student inventor"
+  - title: "Environmentally Friendly High-Efficiency Cleaning Agent for Antibiotic Removal"
+    detail: "Granted invention patent · 2019 · Sole inventor"
+
+contact:
+  title: "Continue the technical conversation"
+  text: >-
+    I welcome conversations on international industry R&D, industry-linked
+    postdoctoral research, and technical collaboration in storage, EMS,
+    renewable integration, modelling, optimisation, assessment, and validation.
+  emails:
+    - "mymy@tju.edu.cn"
+    - "maylis.ma.0029@gmail.com"
+  downloads:
+    - label: "Download full portfolio"
+      url: "/uploads/Yi_Ma_Portfolio.docx"

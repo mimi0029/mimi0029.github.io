@@ -1,11 +1,8 @@
 ---
 title: Publications
+summary: 'Selected publications in energy systems and environmental engineering.'
 cms_exclude: true
-
-# View.
 view: citation
-
-# Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
   image: ''

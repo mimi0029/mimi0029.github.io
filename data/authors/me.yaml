@@ -1,116 +1,141 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Yi Ma
+  given: Yi
+  family: Ma
+  alternate: 马弋
+  pronunciation: ''
+  pronouns: ''
+
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "⚡"
+
+role: Ph.D. Candidate · Applied Energy Systems Research
+
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Ph.D. candidate at Tianjin University with interdisciplinary training in
+  architecture and environmental engineering. I develop explainable,
+  evidence-based methods for low-carbon retrofit decisions, integrated
+  PV-storage systems, and energy-management applications.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Tianjin University
+  - name: APEC Sustainable Energy Center
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: mailto:mymy@tju.edu.cn
+    label: Email Yi Ma
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Integrated PV-Storage Systems
+  - Energy Management and Optimisation
+  - Renewable Energy Integration
+  - Low-Carbon Energy Systems
+  - Life-Cycle Sustainability Assessment
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Ph.D. Candidate in Architecture
+    institution: Tianjin University
+    start: 2023-09-01
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      School of Architecture and APEC Sustainable Energy Center.
+      Research on low-carbon retrofit strategies, integrated PV-storage applications,
+      and uncertainty-aware energy-system decision-making.
+  - degree: M.Eng. in Environmental Engineering
+    institution: Nankai University
+    start: 2020-09-01
+    end: 2023-06-30
+    summary: |
+      School of Environmental Science and Engineering.
+  - degree: B.Eng. in Environmental Engineering
+    institution: Nanjing Agricultural University
+    start: 2016-09-01
+    end: 2020-06-30
+    summary: |
+      School of Resources and Environmental Sciences.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Visiting Scholar
+    org: Slovak University of Technology in Bratislava
+    start: 2025-09-01
+    end: 2025-10-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Erasmus+ funded international research exchange.
+  - role: Project Assistant · Integrated PV–Electricity–Storage Systems
+    org: Chinese Academy of Engineering
+    start: 2024-09-01
+    end: 2025-10-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Contributed to research on technology pathways and industry–university–research
+      cooperation strategies for integrated PEDF systems through data research,
+      power-system modelling, and technical report drafting.
+  - role: Project Assistant · Zero-Carbon Campus Retrofit
+    org: Three Gorges Electric Power Co., Ltd.
+    start: 2023-07-01
+    end: 2025-12-31
+    summary: |
+      Supported research and technical reporting for the demonstration of novel
+      energy systems in existing campuses and developed two related research papers.
+  - role: Project Leader · Energy Audit and Conservation Evaluation
+    org: Tianjin Municipal Development and Reform Commission & Tianjin University
+    start: 2023-11-01
+    end: 2024-09-30
+    summary: |
+      Led project coordination, energy-consumption analysis, energy-saving
+      recommendations, and final report delivery for Tianjin University.
 
 skills:
-  - name: Technical Skills
+  - name: Modelling & Simulation
+    items:
+      - label: EnergyPlus / TRNSYS
+      - label: MATLAB / Simulink
+      - label: Rhino / Grasshopper
+  - name: Programming & Data
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: Data processing and visualisation
+      - label: Measured-data analysis
+  - name: Optimisation & Assessment
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Machine learning and surrogate modelling
+      - label: Multi-objective optimisation
+      - label: Uncertainty analysis
+      - label: Life-cycle and techno-economic assessment
+  - name: Applied R&D
+    items:
+      - label: Energy auditing
+      - label: System validation
+      - label: Technical reporting
+      - label: Project coordination
 
 languages:
   - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+    label: Professional working proficiency
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Second-Class Academic Scholarship
+    awarder: Tianjin University
+    date: "2025-09-01"
+    summary: Academic year 2025–2026.
+    icon: hero/academic-cap
+  - title: Second-Class Academic Scholarship
+    awarder: Tianjin University
+    date: "2024-09-01"
+    summary: Academic year 2024–2025.
+    icon: hero/academic-cap
+  - title: Special Scholarship for Art and Sports Activities
+    awarder: Tianjin University
+    summary: Recognition for extracurricular achievement.
     icon: hero/trophy
+  - title: First Prize
+    awarder: 2nd National Low-Carbon and Circular Technology Competition
+    summary: Graduate division.
+    icon: hero/trophy
+  - title: Outstanding Undergraduate Graduate
+    awarder: Nanjing Agricultural University
+    date: "2020-06-01"
+    icon: hero/star
